@@ -4,8 +4,8 @@ __(Credits to https://github.com/JoakimCarlsson & @Zat on UC as this is complete
 
 ### How to install:
 
-Drop both Assmbly-Csharp.dll and EscapeFromTarkovCheat.dll into the EmuTarkov installation folder under EscapeFromTarkov_Data/Managed and it should work.
-(only works with )
+Drop Managed into the EmuTarkov installation folder under EscapeFromTarkov_Data/ and replace all, then it should work.
+(only works with SP-AKI 1.0.0.7-3, update tutorial on the bottom.)
 
 
 ### Used Libraries
